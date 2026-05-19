@@ -91,6 +91,10 @@ header{
     margin-bottom:30px;
 }
 
+.white
+{
+    color: rgb(254, 252, 252);
+}
 .btn{
     display:inline-block;
     padding:15px 35px;
